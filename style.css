@@ -1,0 +1,56 @@
+header
+{
+	font-size: 30px; /*Tamaño de letra*/
+	text-align: center; /*Alinear texto*/
+	background: #FFFF00; /*Fondo de etiqueta*/
+	padding-bottom: 20px; /*Separación del texto haci abajo*/
+}
+
+nav
+{
+	font-size: 30px; /*Tamaño de letra*/
+	background: #FF0000; /*Fondo de etiqueta*/
+	padding-bottom: 20px; /*Separación del texto*/
+	float: left; /*Mover la etiqueta hacia la izquierda*/
+	width: 25.099%; /*Establecer un ancho*/
+	padding-bottom: 348px; /*Separación del texto* hacia abajo*/
+}
+
+section
+{
+	float: right; /*Mover la etiqueta hacia la izquierda*/
+	width: 74.9%; /*Establecer un ancho*/
+}
+#myImparx
+{
+	background: #fdddca; /*Fondo de etiqueta*/
+	font-size: 16pt; /*Tamaño de letra*/
+	padding-top: 5px; /*Separación del texto* hacia arriba*/
+	padding-bottom: 5px; /*Separación del texto* hacia abajo*/
+}
+
+#myPar
+{
+	background: #000000; /*Fondo de etiqueta*/
+	color: white; /*Color de texto*/
+	font-weight: bold; /*Negrita*/
+	padding-top: 6px; /*Separación del texto* hacia arriba*/
+	padding-bottom: 6px; /*Separación del texto* hacia abajo*/	
+}
+
+#myImpar
+{
+	background: #fdddca; /*Fondo de etiqueta*/
+	font-size: 14pt; /*Tamaño de letra*/
+	color: #000000; /*Color de texto*/
+	padding-top: 12px; /*Separación del texto* hacia arriba*/
+	padding-bottom: 12px; /*Separación del texto* hacia abajo*/
+}
+
+footer
+{
+	font-size: 30px; /*Tamaño de letra*/
+	text-align: center; /*Alinear texto*/
+	background: #008B8B; /*Fondo de etiqueta*/
+	padding-bottom: 20px; /*Separación del texto haci abajo*/
+}
